@@ -2,7 +2,7 @@
 
 class Song
   
-  attr_accessible :title
+  attr_accessor :title
   
   
   
